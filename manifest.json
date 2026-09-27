@@ -1,28 +1,28 @@
 {
-  "version": 3,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v3/stage2_v3.pck",
+  "version": 4,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v4/stage2_v4.pck",
   "sha256": "67908a3011bb58bd0fda268be8028f0d38f6c6d597b0c357629fb8f6a5e34eb8",
   "engine": "4.7.1",
   "bytes": 20924,
   "src": "801ccb7d980fbf71",
-  "set": 3,
+  "set": 4,
   "entry": "res://scenes/launcher.tscn",
-  "commit": "72ee813d",
-  "built": "2026-09-26T07:32:50.111Z",
+  "commit": "2c2ab5c4",
+  "built": "2026-09-27T00:57:47.014Z",
   "layers": {
     "code": {
-      "version": 3,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v3/code_v3.pck",
-      "sha256": "70edc175d149b067bd010429b66ab4e4ade2b2af26dbf736c8ebb913e81a639e",
-      "bytes": 542444,
-      "src": "a238d9db9485c281"
+      "version": 4,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v4/code_v4.pck",
+      "sha256": "2e4074c7e25f14fe8b3c9232b04ef81b5cafc4f625c9b2329369a386dac565ae",
+      "bytes": 687220,
+      "src": "84ab90839f173f33"
     },
     "art": {
-      "version": 3,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/art-v3/art_v3.pck",
-      "sha256": "f67aae9c97686d77cb192c286ba51b0769d94944da395d32aaf90697d68a3d69",
-      "bytes": 13338180,
-      "src": "86403b95989be007"
+      "version": 4,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/art-v4/art_v4.pck",
+      "sha256": "eb505b0bbfe3cd8d67ae1bef2127a4ce8441889bf4ab2fc0582246aab51ff78f",
+      "bytes": 13366760,
+      "src": "3cdf5f09b0f44fb7"
     },
     "audio": {
       "version": 3,
