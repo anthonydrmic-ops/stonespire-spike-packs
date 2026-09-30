@@ -1,35 +1,35 @@
 {
-  "version": 8,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v8/stage2_v8.pck",
+  "version": 9,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v9/stage2_v9.pck",
   "sha256": "67908a3011bb58bd0fda268be8028f0d38f6c6d597b0c357629fb8f6a5e34eb8",
   "engine": "4.7.1",
   "bytes": 20924,
   "src": "801ccb7d980fbf71",
-  "set": 8,
+  "set": 9,
   "entry": "res://ui/shell.tscn",
-  "commit": "2b24d143",
-  "built": "2026-09-28T23:31:18.151Z",
+  "commit": "2b592479",
+  "built": "2026-09-30T05:25:10.349Z",
   "layers": {
     "code": {
-      "version": 8,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v8/code_v8.pck",
-      "sha256": "05f7f28c3b0eae9babf1de49aa84f2702452a9a045b7febfdc980b4b5ec4a571",
-      "bytes": 1760176,
-      "src": "2ee3a3c0c1fcc7f9"
+      "version": 9,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v9/code_v9.pck",
+      "sha256": "61ca75ca066d6d59ac3da09bb8f9f4605fa9603faa93038ffbcac4a44701aff6",
+      "bytes": 6303272,
+      "src": "3d26dfddc4eabf74"
     },
     "art": {
-      "version": 5,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/art-v5/art_v5.pck",
-      "sha256": "bc1ac09536466a1e1623aa6b076a2ec4c985e7d124fe04e1ace0cf01eaa4682a",
-      "bytes": 14653796,
-      "src": "8bc8c865bad078b9"
+      "version": 9,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/art-v9/art_v9.pck",
+      "sha256": "b5a72f1373e58951164c191469f19d943f0a9adc1ac7ba1fbbaf3d51b43e45a5",
+      "bytes": 24003860,
+      "src": "367ebd9f2912b109"
     },
     "audio": {
-      "version": 6,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v6/audio_v6.pck",
-      "sha256": "a597db53525505f82e1a15c7fd18874ca4158d2080772b9900f282d9b31dd09b",
-      "bytes": 18957052,
-      "src": "c39e810dd425cf9f"
+      "version": 9,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v9/audio_v9.pck",
+      "sha256": "a0bde1deefbcebf083a22368b6520cbd112f748aac3a16ca68e30ba691b7ac89",
+      "bytes": 24579404,
+      "src": "0ad49b542c3e07aa"
     }
   }
 }
