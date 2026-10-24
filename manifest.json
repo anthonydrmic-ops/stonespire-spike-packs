@@ -1,22 +1,22 @@
 {
-  "version": 55,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v55/stage2_v55.pck",
+  "version": 56,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v56/stage2_v56.pck",
   "sha256": "5c42a36ec62208b8a590395d18a61a1ba3f7b2e4977c1c48925dd5a8dc654751",
   "engine": "4.7.1",
   "bytes": 38028,
   "src": "065e2927e52c6996",
-  "set": 55,
+  "set": 56,
   "entry": "res://ui/shell.tscn",
-  "commit": "47346163",
-  "built": "2026-10-24T11:59:14.612Z",
+  "commit": "e58a8470",
+  "built": "2026-10-24T15:24:11.258Z",
   "layers": {
     "code": {
-      "version": 55,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v55/code_v55.pck",
-      "sha256": "0f817da466dd76441411d795313f59ba88dd0c386ecb2a75e6d815888fc88610",
-      "bytes": 58292012,
-      "src": "8f15dc2448310b7a",
-      "nid": "40a2032c3193f8d8"
+      "version": 56,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v56/code_v56.pck",
+      "sha256": "19254b281e921ef95785370acfb83b972c377ec73304c9f6c481a9c07a8c1e04",
+      "bytes": 58367388,
+      "src": "c236bdda37638a2c",
+      "nid": "e6eaae66dd478ea6"
     },
     "art": {
       "version": 54,
@@ -27,12 +27,12 @@
       "nid": "c17b70a60a6cc3da"
     },
     "audio": {
-      "version": 55,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v55/audio_v55.pck",
-      "sha256": "b4026d66127f831f37cf8ea733d940455adba0c62c53f19c169fd290ecf0a5a5",
-      "bytes": 66404780,
-      "src": "9e394c92417ec163",
-      "nid": "c8c1a60dea1077c3"
+      "version": 56,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v56/audio_v56.pck",
+      "sha256": "6b71ec43979991946006b311221c46c9e7d5b793140a87f3deb1f2e052d350e1",
+      "bytes": 67555020,
+      "src": "6ff8fc16f99b99be",
+      "nid": "84393fc5a2eca366"
     }
   }
 }
