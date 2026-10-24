@@ -1,22 +1,22 @@
 {
-  "version": 52,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v52/stage2_v52.pck",
-  "sha256": "280b14a44c3399d46537ded693dbda2f579576a8ae4f2c1248f7366b2645326f",
+  "version": 53,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v53/stage2_v53.pck",
+  "sha256": "5c42a36ec62208b8a590395d18a61a1ba3f7b2e4977c1c48925dd5a8dc654751",
   "engine": "4.7.1",
-  "bytes": 25596,
-  "src": "972694f1b596e44a",
-  "set": 52,
+  "bytes": 38028,
+  "src": "065e2927e52c6996",
+  "set": 53,
   "entry": "res://ui/shell.tscn",
-  "commit": "0968cd41",
-  "built": "2026-10-24T04:18:38.126Z",
+  "commit": "e118a776",
+  "built": "2026-10-24T06:31:47.875Z",
   "layers": {
     "code": {
-      "version": 52,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v52/code_v52.pck",
-      "sha256": "ec0982f8d80f8214609acf3626a193cf61bdcaa1a3e7ca9e9225b53e3605f24f",
-      "bytes": 35037244,
-      "src": "ace93a091c17b718",
-      "nid": "fe03b64f762af2af"
+      "version": 53,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v53/code_v53.pck",
+      "sha256": "ea6212fd1c95522dca450678b092f3c2a137364223b2a4147d097577b516b8c0",
+      "bytes": 35041388,
+      "src": "99ddd7b34578f422",
+      "nid": "39b58512460461f7"
     },
     "art": {
       "version": 52,
@@ -27,12 +27,12 @@
       "nid": "cbf9e343f0838019"
     },
     "audio": {
-      "version": 52,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v52/audio_v52.pck",
-      "sha256": "8fe48dd3805495fd4365644e1dda07667521843e0dceb5e168e72fdb10e381d0",
-      "bytes": 66283468,
-      "src": "8021ec2d2c2057da",
-      "nid": "9ba3a887819c56a4"
+      "version": 53,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v53/audio_v53.pck",
+      "sha256": "604b27df36c517dbdcd7724089474337bd8e2687bf4a57cb4d8a9661ffa49666",
+      "bytes": 66284412,
+      "src": "a8eb384cf2414b89",
+      "nid": "ced555b9570067bb"
     }
   }
 }
