@@ -1,22 +1,22 @@
 {
-  "version": 65,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v65/stage2_v65.pck",
+  "version": 66,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v66/stage2_v66.pck",
   "sha256": "5c42a36ec62208b8a590395d18a61a1ba3f7b2e4977c1c48925dd5a8dc654751",
   "engine": "4.7.1",
   "bytes": 38028,
   "src": "065e2927e52c6996",
-  "set": 65,
+  "set": 66,
   "entry": "res://ui/shell.tscn",
-  "commit": "b29d52b2",
-  "built": "2026-10-25T11:29:12.622Z",
+  "commit": "aec57780",
+  "built": "2026-10-27T10:52:37.033Z",
   "layers": {
     "code": {
-      "version": 65,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v65/code_v65.pck",
-      "sha256": "38ebe1b0f632378759652f2506ac610c8b3a429101b20720d3a21f7597a1a60d",
-      "bytes": 61271692,
-      "src": "83cbe17f717b78cd",
-      "nid": "a3ec21edd79ea2a0"
+      "version": 66,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v66/code_v66.pck",
+      "sha256": "172e78bef557452d63b5c6fdd00357eb4bad05f8a16597552d46f7028318166a",
+      "bytes": 61323252,
+      "src": "f4582c9e80009bda",
+      "nid": "e3e187dd63d394eb"
     },
     "art": {
       "version": 62,
