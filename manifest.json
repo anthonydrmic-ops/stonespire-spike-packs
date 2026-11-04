@@ -1,22 +1,22 @@
 {
-  "version": 81,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v81/stage2_v81.pck",
+  "version": 82,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v82/stage2_v82.pck",
   "sha256": "6ba7e5408c182701765179da6cef420816189c7eeed1285483688a38b85d0de4",
   "engine": "4.7.1",
   "bytes": 265380,
   "src": "2d9969b37ad3c09a",
-  "set": 81,
+  "set": 82,
   "entry": "res://ui/shell.tscn",
-  "commit": "64c7932b",
-  "built": "2026-11-03T21:41:57.813Z",
+  "commit": "b85dbea0",
+  "built": "2026-11-04T08:02:44.282Z",
   "layers": {
     "code": {
-      "version": 81,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v81/code_v81.pck",
-      "sha256": "f7348adf68f52fa227eb084e60082234cafd71e41a835774f020673d01826cbc",
-      "bytes": 67182628,
-      "src": "aa51baeb31e55ce4",
-      "nid": "53c2bea933385f12"
+      "version": 82,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v82/code_v82.pck",
+      "sha256": "9590e916f3ceefc15c5ad75e46a018206cee07be0291f0f4af8817a21da747d5",
+      "bytes": 67188660,
+      "src": "0c43c6c7d83cd7dd",
+      "nid": "15c7a873ec775344"
     },
     "art": {
       "version": 78,
@@ -27,12 +27,12 @@
       "nid": "002629610a08a5d2"
     },
     "audio": {
-      "version": 78,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v78/audio_v78.pck",
-      "sha256": "4308486db2c7498a2524ccc29e1ae59331e1aa0366d14b7be4af600f74a8a6fb",
-      "bytes": 70379128,
-      "src": "a7234420bd36e7bb",
-      "nid": "4511fd175337370b"
+      "version": 82,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v82/audio_v82.pck",
+      "sha256": "0ba6de9921640a73c745737a111b20a619018865b06bd175083d5b70667f894c",
+      "bytes": 70562904,
+      "src": "962cdb504aa74ee8",
+      "nid": "87256b59978c6b7d"
     }
   },
   "music": {
