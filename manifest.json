@@ -1,22 +1,22 @@
 {
-  "version": 83,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v83/stage2_v83.pck",
+  "version": 84,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v84/stage2_v84.pck",
   "sha256": "6ba7e5408c182701765179da6cef420816189c7eeed1285483688a38b85d0de4",
   "engine": "4.7.1",
   "bytes": 265380,
   "src": "2d9969b37ad3c09a",
-  "set": 83,
+  "set": 84,
   "entry": "res://ui/shell.tscn",
-  "commit": "3c702092",
-  "built": "2026-11-05T08:26:37.150Z",
+  "commit": "ec80b1f5",
+  "built": "2026-11-06T10:16:18.900Z",
   "layers": {
     "code": {
-      "version": 83,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v83/code_v83.pck",
-      "sha256": "c250aade3456de6fec2ff145a821411efb4e3d29bc6ffdf76c5c573dee39125c",
-      "bytes": 67189828,
-      "src": "49f7259b44b8b4c6",
-      "nid": "2755d26f0ffde139"
+      "version": 84,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v84/code_v84.pck",
+      "sha256": "c61576950a94a8f0a9d47c6bb05b8d6cbd578a36293011d6b776d623d2b0aa31",
+      "bytes": 67281652,
+      "src": "d873a6cc86d10dc5",
+      "nid": "a3b6a2cccb8f256e"
     },
     "art": {
       "version": 78,
@@ -27,12 +27,12 @@
       "nid": "002629610a08a5d2"
     },
     "audio": {
-      "version": 82,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v82/audio_v82.pck",
-      "sha256": "0ba6de9921640a73c745737a111b20a619018865b06bd175083d5b70667f894c",
-      "bytes": 70562904,
-      "src": "962cdb504aa74ee8",
-      "nid": "87256b59978c6b7d"
+      "version": 84,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v84/audio_v84.pck",
+      "sha256": "89d5fc08e951fa71b0fdd4b106bcf94f52411939a0d2bb00d759c69b87fa79b7",
+      "bytes": 70578448,
+      "src": "4f3d408bdb81dbd3",
+      "nid": "f8b20fa22d54ca2b"
     }
   },
   "music": {
