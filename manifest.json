@@ -1,22 +1,25 @@
 {
-  "version": 92,
-  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v92/stage2_v92.pck",
-  "sha256": "6ba7e5408c182701765179da6cef420816189c7eeed1285483688a38b85d0de4",
+  "version": 93,
+  "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/stage2-v93/stage2_v93.pck",
+  "sha256": "31760feb5ac0bce6591d7b70ae779115a4a42f50ebe554c8378d4414cb0b3d34",
   "engine": "4.7.1",
-  "bytes": 265380,
-  "src": "2d9969b37ad3c09a",
-  "set": 92,
+  "bytes": 270612,
+  "src": "baa6525b68033ec2",
+  "set": 93,
   "entry": "res://ui/shell.tscn",
-  "commit": "a9826258",
-  "built": "2026-11-09T04:57:14.781Z",
+  "commit": "5d971bb6",
+  "built": "2026-11-10T17:28:52.975Z",
+  "stage2Knows": [
+    "ui"
+  ],
   "layers": {
     "code": {
-      "version": 92,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v92/code_v92.pck",
-      "sha256": "42d11985c0aa53b003910ca262013c7af0af0dcb7a6d7f19a83b776c15bffa9c",
-      "bytes": 67407092,
-      "src": "a17cac526f5a9628",
-      "nid": "f0b9d4e50a6ae9b5"
+      "version": 93,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/code-v93/code_v93.pck",
+      "sha256": "2e953ccf7dcbf7cb332bd34482b32cfd60297b618906c37ec136e2296308a19f",
+      "bytes": 66032608,
+      "src": "7e40afa8acd235f9",
+      "nid": "243ec12eb17352c6"
     },
     "art": {
       "version": 89,
@@ -27,12 +30,12 @@
       "nid": "91e331153548f8b1"
     },
     "audio": {
-      "version": 84,
-      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v84/audio_v84.pck",
-      "sha256": "89d5fc08e951fa71b0fdd4b106bcf94f52411939a0d2bb00d759c69b87fa79b7",
-      "bytes": 70578448,
-      "src": "4f3d408bdb81dbd3",
-      "nid": "f8b20fa22d54ca2b"
+      "version": 93,
+      "url": "https://github.com/anthonydrmic-ops/stonespire-spike-packs/releases/download/audio-v93/audio_v93.pck",
+      "sha256": "99c48abf9b50fd42fba4d6ac3282be85d948b0df8dcce3eb0e4998cd3acd2c1c",
+      "bytes": 70578688,
+      "src": "12f0a6f0bfb03392",
+      "nid": "f055e6eba244abbd"
     }
   },
   "music": {
